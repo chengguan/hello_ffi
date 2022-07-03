@@ -1,0 +1,9 @@
+ninja: Entering directory `/Users/chengguan/StudioProjects/hello_ffi/android/app/.cxx/RelWithDebInfo/5qq5eal5/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/api.dir/api.cpp.o
+FAILED: CMakeFiles/api.dir/api.cpp.o 
+/Users/chengguan/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/chengguan/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chengguan/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dapi_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -MD -MT CMakeFiles/api.dir/api.cpp.o -MF CMakeFiles/api.dir/api.cpp.o.d -o CMakeFiles/api.dir/api.cpp.o -c /Users/chengguan/StudioProjects/hello_ffi/libs/api.cpp
+/Users/chengguan/StudioProjects/hello_ffi/libs/api.cpp:18:16: error: use of undeclared identifier 'toupper'
+   buffer[0] = toupper(buffer[0]);
+               ^
+1 error generated.
+ninja: build stopped: subcommand failed.

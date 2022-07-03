@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/chengguan/StudioProjects/hello_ffi/android/app/.cxx/RelWithDebInfo/5qq5eal5/x86_64",
+  "command": "/Users/chengguan/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/chengguan/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chengguan/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dapi_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -o CMakeFiles/api.dir/api.cpp.o -c /Users/chengguan/StudioProjects/hello_ffi/libs/api.cpp",
+  "file": "/Users/chengguan/StudioProjects/hello_ffi/libs/api.cpp"
+}
+]

@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/cgteo/projects/hello_ffi/libs/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/cgteo/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/cgteo/projects/hello_ffi/android/app/.cxx/RelWithDebInfo/5a6f1525/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/cgteo/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/cgteo/projects/hello_ffi/android/app/.cxx/RelWithDebInfo/5a6f1525/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "api::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "api",
+      "output": "/home/cgteo/projects/hello_ffi/build/app/intermediates/cxx/RelWithDebInfo/5a6f1525/obj/arm64-v8a/libapi.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/cgteo/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/home/cgteo/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

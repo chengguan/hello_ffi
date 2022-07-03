@@ -1,0 +1,3 @@
+/Users/chengguan/StudioProjects/hello_ffi/android/app/.cxx/RelWithDebInfo/5qq5eal5/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/chengguan/StudioProjects/hello_ffi/android/app/.cxx/RelWithDebInfo/5qq5eal5/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/chengguan/StudioProjects/hello_ffi/android/app/.cxx/RelWithDebInfo/5qq5eal5/arm64-v8a/CMakeFiles/api.dir

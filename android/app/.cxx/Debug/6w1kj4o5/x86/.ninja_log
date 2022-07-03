@@ -1,0 +1,5 @@
+# ninja log v5
+0	65	1656860938	CMakeFiles/api.dir/api.cpp.o	7aadcec6f5cdc00b
+66	114	1656860938	/Users/chengguan/StudioProjects/hello_ffi/build/app/intermediates/cxx/Debug/6w1kj4o5/obj/x86/libapi.so	fd45352e07522e55
+0	83	1656861159	CMakeFiles/api.dir/api.cpp.o	7aadcec6f5cdc00b
+83	154	1656861159	/Users/chengguan/StudioProjects/hello_ffi/build/app/intermediates/cxx/Debug/6w1kj4o5/obj/x86/libapi.so	fd45352e07522e55

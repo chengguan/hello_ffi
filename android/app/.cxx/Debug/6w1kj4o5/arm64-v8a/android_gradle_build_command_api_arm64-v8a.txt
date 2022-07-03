@@ -1,0 +1,7 @@
+Executable : /Users/chengguan/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/chengguan/StudioProjects/hello_ffi/android/app/.cxx/Debug/6w1kj4o5/arm64-v8a
+api
+jvmArgs : 
+

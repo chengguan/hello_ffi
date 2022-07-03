@@ -1,0 +1,7 @@
+Executable : /home/cgteo/Android/Sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/home/cgteo/projects/hello_ffi/android/app/.cxx/RelWithDebInfo/5a6f1525/armeabi-v7a
+api
+jvmArgs : 
+

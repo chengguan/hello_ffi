@@ -1,0 +1,5 @@
+# ninja log v5
+0	70	1656860937	CMakeFiles/api.dir/api.cpp.o	7e2cfba4f1e00a64
+70	124	1656860937	/Users/chengguan/StudioProjects/hello_ffi/build/app/intermediates/cxx/Debug/6w1kj4o5/obj/armeabi-v7a/libapi.so	c71e67ddafbf9d19
+0	91	1656861159	CMakeFiles/api.dir/api.cpp.o	7e2cfba4f1e00a64
+91	157	1656861159	/Users/chengguan/StudioProjects/hello_ffi/build/app/intermediates/cxx/Debug/6w1kj4o5/obj/armeabi-v7a/libapi.so	c71e67ddafbf9d19

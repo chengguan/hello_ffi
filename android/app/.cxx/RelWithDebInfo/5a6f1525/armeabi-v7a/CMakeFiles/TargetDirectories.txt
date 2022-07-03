@@ -1,0 +1,3 @@
+/home/cgteo/projects/hello_ffi/android/app/.cxx/RelWithDebInfo/5a6f1525/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/cgteo/projects/hello_ffi/android/app/.cxx/RelWithDebInfo/5a6f1525/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/cgteo/projects/hello_ffi/android/app/.cxx/RelWithDebInfo/5a6f1525/armeabi-v7a/CMakeFiles/api.dir

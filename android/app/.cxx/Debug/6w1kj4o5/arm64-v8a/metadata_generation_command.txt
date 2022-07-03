@@ -1,0 +1,23 @@
+                    Executable : /Users/chengguan/Library/Android/sdk/cmake/3.18.1/bin/cmake
+arguments : 
+-H/Users/chengguan/StudioProjects/hello_ffi/libs
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=16
+-DANDROID_PLATFORM=android-16
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=/Users/chengguan/Library/Android/sdk/ndk/21.1.6352462
+-DCMAKE_ANDROID_NDK=/Users/chengguan/Library/Android/sdk/ndk/21.1.6352462
+-DCMAKE_TOOLCHAIN_FILE=/Users/chengguan/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/chengguan/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/chengguan/StudioProjects/hello_ffi/build/app/intermediates/cxx/Debug/6w1kj4o5/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/chengguan/StudioProjects/hello_ffi/build/app/intermediates/cxx/Debug/6w1kj4o5/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/chengguan/StudioProjects/hello_ffi/android/app/.cxx/Debug/6w1kj4o5/arm64-v8a
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

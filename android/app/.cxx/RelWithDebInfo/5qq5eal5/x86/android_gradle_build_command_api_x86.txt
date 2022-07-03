@@ -1,0 +1,7 @@
+Executable : /Users/chengguan/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/chengguan/StudioProjects/hello_ffi/android/app/.cxx/RelWithDebInfo/5qq5eal5/x86
+api
+jvmArgs : 
+

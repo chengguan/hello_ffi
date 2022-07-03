@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/chengguan/StudioProjects/hello_ffi/android/app/.cxx/RelWithDebInfo/5qq5eal5/armeabi-v7a'
+ninja: no work to do.

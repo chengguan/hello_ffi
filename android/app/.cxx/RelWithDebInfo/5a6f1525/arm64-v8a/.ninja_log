@@ -1,0 +1,9 @@
+# ninja log v5
+0	24	1656061463	CMakeFiles/api.dir/api.cpp.o	b9addf44b0186a06
+25	36	1656061463	/home/cgteo/projects/hello_ffi/build/app/intermediates/cxx/RelWithDebInfo/5a6f1525/obj/arm64-v8a/libapi.so	8252d278e0217cb
+0	32	1656856193	CMakeFiles/api.dir/api.cpp.o	b9addf44b0186a06
+32	48	1656856193	/home/cgteo/projects/hello_ffi/build/app/intermediates/cxx/RelWithDebInfo/5a6f1525/obj/arm64-v8a/libapi.so	8252d278e0217cb
+0	21	1656856238	CMakeFiles/api.dir/api.cpp.o	b9addf44b0186a06
+21	32	1656856238	/home/cgteo/projects/hello_ffi/build/app/intermediates/cxx/RelWithDebInfo/5a6f1525/obj/arm64-v8a/libapi.so	8252d278e0217cb
+0	22	1656856260	CMakeFiles/api.dir/api.cpp.o	b9addf44b0186a06
+22	34	1656856260	/home/cgteo/projects/hello_ffi/build/app/intermediates/cxx/RelWithDebInfo/5a6f1525/obj/arm64-v8a/libapi.so	8252d278e0217cb
